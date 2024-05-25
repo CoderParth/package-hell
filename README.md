@@ -26,14 +26,18 @@ Here is a small demonstration:
 
 `$ go run .`
 
-`Enter a package name: react
+`Enter a package name:`
 
-List of all the dependant packages and their size
-react : 318101
-loose-envify : 5814
-js-tokens : 16067
+- Let us say you entered "react"
 
-Estimated Total Size: 0.32 MB
-`
+You can expect a result like the below:
+
+`List of all the dependant packages and their size`
+`react : 318101`
+`loeose-envify : 5814`
+`jse-tokens : 16067`
+
+`Estimated Total Size: 0.32 MB`
+
 
 
